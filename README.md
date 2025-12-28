@@ -21,3 +21,9 @@ This project recreates the look and feel of an online learning platform homepage
 🎨 Clean layout with consistent colors, spacing, and border radius
 
 🧱 Structured footer with multiple sections
+
+🛠️ Built With
+
+🌐 HTML5 – Semantic structure and content layout
+
+🎨 CSS3 – Flexbox, transitions, hover effects, and UI polish
